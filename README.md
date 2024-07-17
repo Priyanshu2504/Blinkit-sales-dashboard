@@ -71,7 +71,8 @@ The analysis is conducted using various KPIs and visualizations, focusing on the
 This Blinkit Analysis Dashboard is designed to provide a deep dive into the sales data, customer feedback, and inventory metrics of Blinkit. The visualizations and KPIs will help stakeholders make informed decisions and identify areas for improvement. Thank you for exploring this project, and we hope you find the insights valuable!
 
 ---
-
+![image](https://github.com/user-attachments/assets/e8111513-82a0-4179-902c-1cd36581707b)
+---
 Feel free to contribute to this project by forking the repository and making pull requests. For any questions or suggestions, please open an issue or contact me directly.
 
 ---
